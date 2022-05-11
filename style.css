@@ -1,0 +1,30 @@
+.header{
+background-color: #E3F2FD;
+}
+.header a img{
+    width: 40px;
+}
+#breadcumb ol{
+    background-color: #E9ECEF;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+/* Alert */
+.alert-clr{
+    background-color: #D4EDDA;
+}
+
+/* accordion */
+button.text{
+    font-size: 17px;
+    font-weight: bold;
+    color: blue;
+}
+.btn-2{
+    background-color: #F7F7F7;
+}
+.f-right ul{
+    text-align: right !important;
+}
+
